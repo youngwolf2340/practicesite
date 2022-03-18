@@ -8,3 +8,24 @@ body {
     background-color: white;
     
 }
+
+.graph {
+    position: absolute;
+    color: red;
+    background-color: white;
+    text-align: center;
+}
+
+.nav {
+    
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  
+}
+
+.nav a {
+    color: red;
+}
