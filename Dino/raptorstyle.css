@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/raptor.png");
+}
+
+.text {
+    position: absolute;
+    color: red;
+    background-color: white;
+    
+}
