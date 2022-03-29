@@ -6,6 +6,10 @@ body {
     position: absolute;
     color: red;
     background-color: white;
+    border: 5px solid green;
+    margin-left: 550px;
+    
+
     
 }
 
@@ -14,6 +18,10 @@ body {
     color: red;
     background-color: white;
     text-align: center;
+    border: 5px solid blue;
+    margin: 100px;
+    padding: 20px;
+    word-spacing: 5px;
 }
 
 .nav {
@@ -24,8 +32,10 @@ body {
   width: 100%;
   text-align: center;
   
+  
 }
 
 .nav a {
     color: red;
 }
+
